@@ -100,7 +100,7 @@ header div .content-logs div:nth-child(2) a svg{
 .tittle{
     text-align: center;
     font-family: sans-serif;
-    margin-top: 40px;
+    margin-top: 30px;
 
 }
 
@@ -109,7 +109,7 @@ header div .content-logs div:nth-child(2) a svg{
     height: 500px;
     position:relative;
     left: 150px;
-    top: 100px;
+    top: 50px;
 
 }
 

@@ -95,19 +95,24 @@ header div .content-logs div:nth-child(2) a svg{
 }
 
 /* -------------------------- main ------------------------- */
-main div.content-nav{
-    width: 65%;
-    font-family: 'Mukta', sans-serif;
-    font-size: 1.3rem;
+.tittle{
+    width: 100%;
+    font-family: sans-serif;
     text-align: center;
-    margin-left: 17%;
-
+    margin-top: 30px;
 }
 
-main div.content-logo{
-    width: 100%;
+.p{
+    width: 70%;
+    font-family: sans-serif;
+    font-size: 1.3rem;
     text-align: center;
-    margin-top: 35px;
+    margin-left: 13%;
+}
+
+.cuadro1{
+    text-align: center;
+    margin-top:30px;
 }
 
 /* ----------------------------- footer --------------------- */
