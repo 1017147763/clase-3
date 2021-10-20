@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 /* Estilos del documento html Index*/
 
 /* ------------------- body ----------------- */
@@ -30,7 +29,8 @@ header div .content-logo{
 }
 
 header div .content-logo img{
-    width: 100%;
+    width: 50%;
+    margin-top: 10px;
 }
 
 /* column two */
@@ -60,7 +60,7 @@ header div .content-nav nav ul li{
 header div .content-nav nav ul li a{
     text-decoration: none;
     color: #020202;
-    font-family: 'Mukta', sans-serif;
+    font-family:sans-serif;
     font-size: 1.3em;
 }
 
@@ -96,6 +96,61 @@ header div .content-logs div:nth-child(2) a svg{
 
 /* -------------------------- main ------------------------- */
 
+
+.tittle{
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 40px;
+
+}
+
+.cuadro1{
+    width: 300px;
+    height: 500px;
+    position:relative;
+    left: 150px;
+    top: 100px;
+
+}
+
+.cuadro2{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+    
+}
+
+.cuadro3{
+    width: 300px;
+    position:absolute;
+    left: 400px;
+    top: 0px;
+      
+
+}
+
+.cuadro4{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+    
+}
+
+.cuadro5{
+    width: 300px;
+    position:absolute;
+    left: 400px;
+    top: 0px;
+
+}
+
+.cuadro6{
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+
+}
+
 /* ----------------------------- footer --------------------- */
 footer{
     width: 100%;
@@ -117,4 +172,5 @@ footer div span{
     color: darkgray;
     font-size: 1.1rem;
     font-family: sans-serif;
+    
 }
